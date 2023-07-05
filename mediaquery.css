@@ -1,0 +1,29 @@
+/* Small screens and laptops */
+@media screen and (max-width: 1024px) {
+    .about-text{
+        padding:0 !important;
+        margin:0 !important;
+    }
+    .catring-image{
+        margin: 0;
+        padding: 0;
+        border: 2px solid black;
+        width: 200px;
+        height: 200;
+    }
+    .navbar{
+        width: 0;
+        height: 0;
+    }
+    .about-txt h5{
+        margin: 0;
+    }
+}
+
+/* iPads, Tablets */
+@media screen and (max-width: 768px) {
+}
+
+/* Mobile devices */
+@media screen and (max-width: 320px) {
+} */
